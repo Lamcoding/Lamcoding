@@ -5,6 +5,6 @@
 </p>
 <p align="center">
   <a href="https://github.com/Lamcoding">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lamcoding&layout=compact" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lamcoding&layout=compact&hide=html" />
   </a>
 </p>
